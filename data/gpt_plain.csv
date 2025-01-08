@@ -1,0 +1,500 @@
+name,age,gender,residence,income,education_level,yearly_energy_consumption_kWh,political_preferences
+Jana Nováková,34,žena,Brno,35000,vysokoškolské,3500,ANO
+Petr Dvořák,47,muž,Ostrava,28000,vyšší odborné,4500,ODS
+Martina Horáková,29,žena,Plzeň,32000,středoškolské s maturitou,3000,Piráti
+Lukáš Svoboda,52,muž,Liberec,41000,vysokoškolské,6000,SPD
+Karolína Vlková,38,žena,České Budějovice,31000,vysokoškolské,4200,ČSSD
+Jiří Novák,34,muž,Brno,38000,středoškolské s maturitou,3700,ANO
+Petr Dvořák,47,muž,Ostrava,46000,vyšší odborné,5000,ODS
+Eva Horáková,29,žena,Plzeň,33500,středoškolské s maturitou,3400,Piráti
+Martina Svobodová,53,žena,Hradec Králové,29000,vysokoškolské,4600,TOP 09
+Tomáš Černý,39,muž,České Budějovice,42000,vysokoškolské,4200,SPD
+Lenka Nováková,34,žena,Brno,38000,vysokoškolské,3300,ANO
+Petr Vlček,47,muž,Ostrava,32000,středoškolské bez maturity,4800,ČSSD
+Eva Dvořáková,26,žena,Praha,45000,vysokoškolské,2500,Piráti
+Jana Šimková,52,žena,Plzeň,36000,vyšší odborné,3500,ODS
+Martin Kříž,30,muž,Ústí nad Labem,28000,středoškolské s maturitou,2900,SPD
+Lucie Novotná,34,žena,Brno,38000,vysokoškolské,3200,ANO
+Petr Novák,45,muž,Ostrava,32000,středoškolské bez maturity,4000,ČSSD
+Eva Dvořáková,37,žena,Liberec,34000,vysokoškolské,3050,Piráti
+Jan Svoboda,52,muž,Plzeň,41000,středoškolské s maturitou,3750,ODS
+Martina Kopecká,29,žena,Hradec Králové,28000,vysokoškolské,2500,TOP 09
+Lukáš Hrubý,34,muž,Brno,36000,vysokoškolské,3200,ANO
+Petr Novák,46,muž,Ostrava,37500,středoškolské bez maturity,4050,SPD
+Eva Dvořáková,38,žena,Praha,45000,vysokoškolské,2900,Piráti
+Jana Černá,52,žena,České Budějovice,32000,středoškolské s maturitou,4000,ČSSD
+Milan Svoboda,29,muž,Plzeň,28000,vyšší odborné,3500,ODS
+Tomáš Kovařík,65,muž,Brno,33000,středoškolské bez maturity,4600,ANO
+Petr Novák,47,muž,Ostrava,38000,vysokoškolské,4200,TOP 09
+Eva Dvořáková,34,žena,Pardubice,29000,středoškolské s maturitou,3000,Piráti
+Jana Horáková,52,žena,České Budějovice,31000,vysokoškolské,3700,ČSSD
+Martin Svoboda,29,muž,Liberec,27000,středoškolské s maturitou,2800,ODS
+Lucie Křížová,36,žena,Brno,33000,vysokoškolské,3450,ANO
+Pavel Novák,45,muž,Ostrava,37000,vyšší odborné,4000,SPD
+Eva Dvořáková,33,žena,Plzeň,29500,středoškolské s maturitou,3200,Piráti
+Jana Horáková,52,žena,Ústí nad Labem,28000,středoškolské bez maturity,2900,ČSSD
+Martin Svoboda,29,muž,Hradec Králové,31000,vysokoškolské,3650,ODS
+Miroslav Černý,38,muž,Brno,40500,vysokoškolské,3800,ANO
+Lenka Nováková,47,žena,Ostrava,27000,středoškolské s maturitou,3550,SPD
+Petr Vacek,34,muž,Plzeň,33000,vyšší odborné,3400,Piráti
+Eva Dvořáková,52,žena,České Budějovice,29000,středoškolské bez maturity,4200,ČSSD
+Jana Horáková,29,žena,Liberec,28000,vysokoškolské,2680,TOP 09
+Milan Kratochvíl,65,muž,Hradec Králové,36000,středoškolské s maturitou,3800,ANO 2011
+Lucie Svobodová,38,žena,Ostrava,32000,vysokoškolské,3100,ODS
+Petr Novák,47,muž,Brno,42000,vysokoškolské,4500,Piráti
+Eva Dvořáková,54,žena,České Budějovice,34000,vyšší odborné,4200,ČSSD
+Jan Horák,29,muž,Plzeň,28000,středoškolské bez maturity,2600,SPD
+Martina Krausová,33,žena,Hradec Králové,30000,vysokoškolské,3600,ANO
+Milan Svoboda,41,muž,Ostrava,38000,vysokoškolské,3900,ODS
+Pavlína Novotná,47,žena,Brno,42000,vysokoškolské,4800,Piráti
+Tomáš Dvořák,54,muž,České Budějovice,34000,středoškolské s maturitou,4300,ČSSD
+Eva Horáková,29,žena,Pardubice,28000,vyšší odborné,2500,TOP 09
+Jiří Novák,35,muž,Liberec,45000,vysokoškolské,3600,ANO
+Martina Svobodová,41,žena,Ostrava,38000,středoškolské bez maturity,4000,SPD
+Petr Jelínek,67,muž,Brno,32000,středoškolské s maturitou,2900,ODS
+Lucie Dvořáková,24,žena,Plzeň,25000,vysokoškolské,2200,Piráti
+Tomáš Král,53,muž,České Budějovice,42000,vysokoškolské,3400,TOP 09
+Eva Nováková,35,žena,Liberec,33000,středoškolské bez maturity,3000,ANO
+Karel Havel,44,muž,Ostrava,38000,vyučen,4500,ČSSD
+Jana Novotná,31,žena,Brno,29000,vysokoškolské,2800,ODS
+Petr Válek,28,muž,Plzeň,26000,středoškolské s maturitou,3200,Piráti
+Lucie Králová,52,žena,Pardubice,42000,vysokoškolské,3700,TOP 09
+Eva Dvořáková,39,žena,České Budějovice,34000,vysokoškolské,4000,ANO
+Martin Kopečný,45,muž,Ostrava,38000,vysokoškolské,4500,SPD
+Jana Novotná,33,žena,Brno,31000,středoškolské s maturitou,3500,ČSSD
+Petr Novák,28,muž,Praha,39000,vysokoškolské,3000,Piráti
+Lucie Svobodová,52,žena,Plzeň,28000,vyšší odborné,3800,ODS
+David Horák,37,muž,Liberec,34000,středoškolské bez maturity,4200,ANO
+Eva Dvořáková,45,žena,Ostrava,33000,středoškolské s maturitou,4600,SPD
+Jiří Kovář,30,muž,Brno,36000,vysokoškolské,3500,ČSSD
+Petra Nováková,28,žena,Praha,41000,vysokoškolské,3200,Piráti
+Lukáš Svoboda,52,muž,Plzeň,38000,středoškolské s maturitou,4800,ODS
+Martina Horáková,34,žena,Liberec,29500,vyšší odborné,3900,ANO
+Eva Dvořáková,45,žena,Ostrava,34000,vysokoškolské,4600,SPD
+Jiří Válek,65,muž,Brno,26500,středoškolské bez maturity,2700,ČSSD
+Petr Novák,30,muž,Praha,45000,vysokoškolské,3500,Piráti
+Lucie Svobodová,52,žena,Plzeň,32000,vysokoškolské,4200,ODS
+Anna Konečná,37,žena,Liberec,38000,vysokoškolské,3300,ANO
+Marek Horák,28,muž,Ostrava,28000,vyšší odborné,2900,SPD
+Jana Dvořáková,45,žena,Brno,35000,středoškolské s maturitou,4000,ČSSD
+Petr Novák,34,muž,Praha,45000,vysokoškolské,3500,Pirátská strana
+Lukáš Svoboda,52,muž,Plzeň,32000,středoškolské s maturitou,4200,ODS
+Veronika Procházková,37,žena,Liberec,30000,vysokoškolské,3600,ANO
+Martina Kopecká,29,žena,Ostrava,28000,vysokoškolské,3300,SPD
+David Jelínek,45,muž,Brno,38000,středoškolské s maturitou,4000,ČSSD
+Jiří Novák,34,muž,Praha,45000,vysokoškolské,3500,Piráti
+Lenka Dvořáková,52,žena,Plzeň,32000,vyšší odborné,4200,ODS
+Eva Horáková,37,žena,Liberec,33000,vysokoškolské,2900,ANO
+Martin Kříž,29,muž,Ostrava,28000,středoškolské bez maturity,3600,SPD
+Tereza Šimková,45,žena,Brno,38000,vysokoškolské,4000,ČSSD
+Petr Novák,34,muž,Praha,45000,vysokoškolské,3500,Piráti
+Jana Dvořáková,52,žena,Plzeň,31000,středoškolské s maturitou,4200,ODS
+Lucie Svobodová,39,žena,Liberec,33000,vysokoškolské,3800,ANO
+Marek Vlček,28,muž,Ostrava,29000,vyšší odborné,3600,SPD
+Veronika Krejčí,45,žena,Brno,38000,vysokoškolské,4000,ČSSD
+Tomáš Novák,34,muž,Praha,45000,vysokoškolské,4500,Piráti
+Jana Dvořáková,52,žena,Plzeň,42000,středoškolské s maturitou,4700,ODS
+Petr Svoboda,39,muž,Ústí nad Labem,34000,středoškolské bez maturity,3800,ANO
+Marie Procházková,28,žena,Ostrava,32000,vysokoškolské,3100,SPD
+Lucie Křížová,47,žena,Brno,36000,vysokoškolské,4200,ČSSD
+Tomáš Novák,33,muž,Praha,50000,vysokoškolské,3300,Piráti
+Jiří Dvořák,54,muž,Plzeň,38000,středoškolské s maturitou,4500,ODS
+Petra Hrubá,39,žena,Liberec,28000,středoškolské s maturitou,3700,ANO
+Anna Svobodová,28,žena,Ostrava,32000,vysokoškolské,3000,SPD
+Lukáš Marek,47,muž,Brno,42000,vyšší odborné,4100,ČSSD
+Veronika Kovaříková,33,žena,Praha,45000,vysokoškolské,3500,Piráti
+Jiří Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4500,ODS
+Klára Dvořáková,39,žena,Liberec,35000,středoškolské s maturitou,3200,ANO
+Marie Šimková,28,žena,Ostrava,31000,vysokoškolské,2800,SPD
+Tomáš Horák,46,muž,Brno,42000,vysokoškolské,4000,ČSSD
+Petr Svoboda,34,muž,Pardubice,36000,středoškolské s maturitou,3500,Piráti
+Jana Nováková,52,žena,Plzeň,38000,vyšší odborné,3700,ODS
+Eva Horáková,45,žena,Liberec,37000,vysokoškolské,3900,ČSSD
+Lucie Svobodová,34,žena,Brno,31000,středoškolské bez maturity,3600,TOP 09
+Petr Válek,52,muž,Praha,45000,vysokoškolské,4200,ODS
+Jana Dvořáková,39,žena,Ostrava,33000,středoškolské s maturitou,3750,ANO
+Martin Novák,28,muž,Plzeň,28000,vyšší odborné,3400,Piráti
+Eva Horáková,47,žena,Liberec,29000,středoškolské bez maturity,3850,ČSSD
+Lucie Svobodová,34,žena,Brno,32000,vysokoškolské,3600,TOP 09
+Petr Kopecký,52,muž,Hradec Králové,36000,středoškolské s maturitou,4100,ODS
+Jana Dvořáková,39,žena,Ostrava,31000,vyšší odborné,3700,ANO
+Martin Novák,28,muž,Plzeň,28000,středoškolské s maturitou,3400,Piráti
+Eva Horáková,47,žena,Liberec,29000,vysokoškolské,3800,ČSSD
+Lucie Svobodová,34,žena,Brno,32000,středoškolské bez maturity,3300,TOP 09
+Petr Kříž,52,muž,Praha,45000,vysokoškolské,4600,ODS
+Jana Dvořáková,39,žena,Ostrava,33000,vyšší odborné,3750,ANO
+Martin Novák,28,muž,Plzeň,28000,středoškolské s maturitou,2500,Piráti
+Eva Hrubá,46,žena,Liberec,37000,vysokoškolské,4200,ČSSD
+Lucie Šimková,34,žena,Brno,32000,vysokoškolské,3500,TOP 09
+Tomáš Vávra,52,muž,Praha,45000,vysokoškolské,4600,ODS
+Jana Dvořáková,39,žena,Ostrava,30000,vyšší odborné,3300,ANO
+Petr Novák,30,muž,Plzeň,28000,středoškolské s maturitou,3100,Piráti
+Eva Horáková,45,žena,Liberec,35000,vysokoškolské,4000,ČSSD
+Lucie Svobodová,34,žena,Brno,32000,vysokoškolské,3600,TOP 09
+Martin Kříž,28,muž,Pardubice,27000,středoškolské s maturitou,2900,ODS
+Jana Dvořáková,52,žena,Olomouc,31000,vyšší odborné,3800,ANO
+Petr Novák,37,muž,Ostrava,29000,středoškolské bez maturity,3400,Piráti
+Eva Horáková,45,žena,Plzeň,34000,vysokoškolské,4000,ČSSD
+Lukáš Svoboda,33,muž,Brno,35000,vysokoškolské,3200,TOP 09
+Marie Kopecká,28,žena,Praha,37000,vysokoškolské,2900,ODS
+Jiří Dvořák,52,muž,Liberec,31000,vyšší odborné,3600,ANO
+Petra Nováková,38,žena,Ostrava,29000,středoškolské s maturitou,3400,Piráti
+Tomáš Horák,45,muž,Plzeň,33000,vysokoškolské,3750,SPD
+Lucie Svobodová,34,žena,Brno,28000,středoškolské bez maturity,3200,ČSSD
+Eva Křížová,29,žena,Pardubice,27000,vyšší odborné,3100,TOP 09
+Martin Dvořák,52,muž,Liberec,35000,vysokoškolské,4000,ODS
+Jana Nováková,37,žena,Ostrava,29000,středoškolské s maturitou,3400,ANO
+Petr Horák,45,muž,Plzeň,32000,středoškolské s maturitou,3650,Piráti
+Lucie Svobodová,33,žena,Brno,31000,vysokoškolské,2800,ČSSD
+Eva Novotná,28,žena,Pardubice,27000,vysokoškolské,2500,TOP 09
+Michal Dvořák,52,muž,Liberec,35000,vyšší odborné,3900,ODS
+Jana Kopecká,36,žena,Ostrava,29500,středoškolské bez maturity,3200,ANO
+Petr Novák,45,muž,Plzeň,33000,vysokoškolské,4200,Piráti
+Lucie Svobodová,31,žena,Brno,28000,vysokoškolské,3000,ČSSD
+Eva Horáková,27,žena,Pardubice,25000,středoškolské s maturitou,2800,TOP 09
+Marek Dvořák,52,muž,Liberec,32000,vyšší odborné,3500,ODS
+Jana Novotná,34,žena,Ostrava,29000,vysokoškolské,3650,ANO
+Petr Kříž,45,muž,Plzeň,34000,středoškolské bez maturity,4000,Piráti
+Lucie Svobodová,29,žena,Brno,31000,vysokoškolské,3300,ČSSD
+Tomáš Novák,38,muž,Praha,45000,vysokoškolské,4200,TOP 09
+Eva Horáková,52,žena,Liberec,28000,středoškolské s maturitou,3750,ODS
+Martina Dvořáková,34,žena,Ostrava,32000,vyšší odborné,3550,ANO
+Jiří Kopecký,47,muž,Plzeň,38000,vysokoškolské,4000,Piráti
+Lukáš Svoboda,29,muž,Brno,34000,vysokoškolské,3600,SPD
+Petra Nováková,38,žena,Praha,45000,vysokoškolské,4200,TOP 09
+Eva Hrušková,52,žena,Liberec,37000,středoškolské s maturitou,3900,ČSSD
+Marek Dvořák,34,muž,Ostrava,32000,vyšší odborné,3400,ANO
+Jana Novotná,45,žena,Plzeň,29000,středoškolské bez maturity,3100,Piráti
+Tomáš Svoboda,29,muž,Brno,35000,vysokoškolské,3600,ODS
+Lucie Křížová,38,žena,Pardubice,28000,středoškolské s maturitou,4200,SPD
+Eva Horáková,52,žena,Liberec,33000,vyšší odborné,4500,ČSSD
+Martin Dvořák,34,muž,Ostrava,32000,vysokoškolské,3800,ANO
+Jana Nováková,45,žena,Plzeň,31000,středoškolské bez maturity,4000,Piráti
+Tomáš Svoboda,29,muž,Brno,35000,vysokoškolské,3600,TOP 09
+Lucie Křížová,38,žena,Praha,42000,vysokoškolské,3200,ODS
+Eva Horáková,52,žena,Liberec,29000,středoškolské s maturitou,4100,ČSSD
+Petr Novotný,34,muž,Ostrava,33000,vyšší odborné,4700,ANO
+Martina Dvořáková,45,žena,Plzeň,31000,středoškolské bez maturity,3000,Piráti
+Jiří Šimek,29,muž,Brno,36000,vysokoškolské,2500,TOP 09
+Lucie Nováková,38,žena,Praha,45000,vysokoškolské,3200,ODS
+Eva Hrušková,52,žena,Liberec,28000,středoškolské s maturitou,4000,ČSSD
+Tomáš Svoboda,34,muž,Ostrava,33000,vysokoškolské,2900,ANO
+Martina Dvořáková,46,žena,Plzeň,37000,vysokoškolské,3100,Piráti
+Jiří Novotný,29,muž,Brno,31000,středoškolské s maturitou,2700,SPD
+Lucie Křížová,38,žena,Praha,45000,vysokoškolské,3500,ODS
+Petr Vlček,52,muž,Liberec,38000,vyšší odborné,3650,ČSSD
+Eva Hrušková,34,žena,Ostrava,32000,vysokoškolské,2900,ANO
+Anna Dvořáková,45,žena,Plzeň,40000,středoškolské s maturitou,3200,Piráti
+Jiří Novotný,29,muž,Brno,35000,vysokoškolské,2800,TOP 09
+Lucie Svobodová,38,žena,Praha,45000,vysokoškolské,3300,ODS
+Tomáš Kříž,52,muž,Liberec,38000,středoškolské s maturitou,3400,ČSSD
+Eva Horáková,34,žena,Ostrava,32000,vyšší odborné,2900,ANO
+Martin Dvořák,47,muž,Plzeň,40000,vysokoškolské,3600,Piráti
+Jana Nováková,29,žena,Brno,35000,středoškolské bez maturity,2500,SPD
+Lukáš Svoboda,31,muž,Hradec Králové,28000,středoškolské s maturitou,3300,ODS
+Petr Novotný,52,muž,Liberec,38000,vysokoškolské,4100,ČSSD
+Eva Křížová,34,žena,Ostrava,31000,vysokoškolské,2900,ANO
+Martin Dvořák,45,muž,Plzeň,42000,vysokoškolské,3600,Piráti
+Jana Nováková,28,žena,Brno,33500,vysokoškolské,2750,TOP 09
+Lucie Svobodová,39,žena,Praha,45000,vysokoškolské,3200,ODS
+Petr Horák,52,muž,Liberec,38000,středoškolské s maturitou,4000,SPD
+Eva Křížová,34,žena,Ostrava,32000,vysokoškolské,2900,ANO
+Martin Dvořák,45,muž,Plzeň,37000,vysokoškolské,3500,Piráti
+Jana Nováková,28,žena,Brno,33000,středoškolské bez maturity,2800,ČSSD
+Tomáš Svoboda,39,muž,Pardubice,35000,vysokoškolské,3200,ODS
+Lucie Horáková,31,žena,Liberec,29000,středoškolské s maturitou,2700,TOP 09
+Petr Novotný,52,muž,Ostrava,38000,vysokoškolské,4200,ANO
+Eva Dvořáková,45,žena,Plzeň,32000,vyšší odborné,3600,Piráti
+Jana Křížová,28,žena,Brno,28000,bakalářské,2500,ČSSD
+Martin Svoboda,34,muž,Praha,45000,magisterské,3300,ODS
+Lucie Horáková,39,žena,Liberec,34000,středoškolské s maturitou,2900,TOP 09
+Tomáš Novotný,52,muž,Ostrava,38000,vysokoškolské,4800,ANO
+Eva Dvořáková,45,žena,Plzeň,32000,vyšší odborné,3600,Piráti
+Jiří Kříž,28,muž,Brno,40000,bakalářské,2500,SPD
+Martina Svobodová,33,žena,Praha,45000,magisterské,3300,ČSSD
+Lukáš Horák,39,muž,Liberec,35000,středoškolské s maturitou,4200,ODS
+Tereza Nováková,52,žena,Ostrava,38000,vyšší odborné,2900,ANO
+Petr Válek,45,muž,Plzeň,32000,středoškolské bez maturity,3600,Piráti
+Eva Dvořáková,28,žena,Brno,29000,bakalářské,2500,TOP 09
+Jiří Novotný,34,muž,Praha,45000,magisterské,3300,ČSSD
+Martina Kopecká,39,žena,Liberec,34000,vysokoškolské,2800,ODS
+Lukáš Horák,52,muž,Ostrava,38000,vyšší odborné,4200,ANO
+Barbora Nováková,27,žena,Plzeň,31000,vysokoškolské,2600,Piráti
+Tomáš Svoboda,45,muž,Brno,40000,středoškolské s maturitou,3500,SPD
+Eva Dvořáková,34,žena,Praha,45000,vysokoškolské,3000,ČSSD
+Martin Jelínek,39,muž,Liberec,33000,středoškolské s maturitou,3700,ODS
+Jana Procházková,52,žena,Ostrava,29000,vyšší odborné,2800,ANO
+Petr Novák,30,muž,Plzeň,36000,vysokoškolské,3200,Piráti
+Lucie Svobodová,45,žena,Brno,38000,vysokoškolské,2500,TOP 09
+Eva Dvořáková,34,žena,Praha,42000,vysokoškolské,3000,SPD
+Martin Kříž,28,muž,Liberec,33000,středoškolské s maturitou,2600,ČSSD
+Jana Novotná,52,žena,Ostrava,29000,vyšší odborné,2800,ANO
+Petr Horák,37,muž,Plzeň,35000,vysokoškolské,3200,Piráti
+Lucie Svobodová,45,žena,Brno,38000,vysokoškolské,3100,ODS
+Eva Dvořáková,34,žena,Ústí nad Labem,28000,středoškolské s maturitou,2700,SPD
+Michal Hruška,29,muž,Liberec,33000,vysokoškolské,3000,ČSSD
+Jana Nováková,52,žena,Ostrava,29000,vysokoškolské,3500,ANO
+Petr Novotný,38,muž,Plzeň,32000,středoškolské bez maturity,2800,Piráti
+Lucie Svobodová,45,žena,Brno,37000,vysokoškolské,4000,ODS
+Eva Dvořáková,34,žena,Pardubice,28000,vyšší odborné,3200,SPD
+Marek Jelínek,29,muž,Liberec,25000,středoškolské s maturitou,2700,ČSSD
+Jana Procházková,52,žena,Ostrava,33000,středoškolské bez maturity,3600,ANO
+Tomáš Novotný,38,muž,Plzeň,31000,vysokoškolské,3400,Piráti
+Lenka Křížová,45,žena,Brno,36500,vysokoškolské,4100,ODS
+Eva Dvořáková,34,žena,Hradec Králové,28000,středoškolské s maturitou,3200,SPD
+Michal Horák,29,muž,Liberec,29500,vyšší odborné,2500,ČSSD
+Jana Nováková,52,žena,Ostrava,33000,středoškolské bez maturity,3800,ANO
+Petr Válek,37,muž,Plzeň,32000,vysokoškolské,3600,Piráti
+Lucie Svobodová,45,žena,Brno,35000,vysokoškolské,3150,ODS
+Karel Novotný,34,muž,Pardubice,28000,středoškolské s maturitou,4200,TOP 09
+Eva Dvořáková,29,žena,Liberec,25000,vyšší odborné,3400,ČSSD
+Jan Hruška,52,muž,Ostrava,37000,vysokoškolské,4600,ANO
+Petr Novák,38,muž,Plzeň,32000,středoškolské bez maturity,3900,Piráti
+Lucie Šimková,46,žena,Brno,33000,vysokoškolské,3600,ODS
+Martina Kopecká,34,žena,Pardubice,28000,vysokoškolské,3100,SPD
+Tomáš Svoboda,29,muž,Liberec,25000,středoškolské s maturitou,2800,ČSSD
+Eva Dvořáková,52,žena,Ostrava,29000,vyšší odborné,4200,ANO
+Jan Novák,37,muž,Plzeň,32000,vysokoškolské,3400,Piráti
+Helena Jirásková,45,žena,Brno,35000,vysokoškolské,3800,ODS
+Petr Vlček,31,muž,Praha,40000,vysokoškolské,3600,TOP 09
+Lucie Svobodová,28,žena,Liberec,28000,středoškolské s maturitou,3100,ČSSD
+Marek Dvořák,52,muž,Ostrava,33000,vysokoškolské,4200,ANO
+Jana Nováková,38,žena,Plzeň,30000,vysokoškolské,3500,Piráti
+Tomáš Horák,45,muž,Brno,37000,středoškolské s maturitou,3900,ODS
+Eva Pospíšilová,34,žena,Hradec Králové,32000,vysokoškolské,3600,TOP 09
+Lucie Svobodová,29,žena,Liberec,28000,vysokoškolské,3300,ČSSD
+Petr Novotný,52,muž,Ostrava,34000,středoškolské s maturitou,4100,ANO
+Jana Dvořáková,38,žena,Plzeň,30000,vyšší odborné,3500,Piráti
+Martin Kříž,45,muž,Brno,38000,vysokoškolské,3900,ODS
+Eva Horáková,33,žena,Praha,42000,vysokoškolské,2800,TOP 09
+Lucie Nováková,29,žena,Liberec,28000,středoškolské bez maturity,3200,ČSSD
+Petr Svoboda,52,muž,Ostrava,34000,vysokoškolské,4500,ANO
+Jana Dvořáková,38,žena,Plzeň,31000,středoškolské s maturitou,3600,Piráti
+Martin Kříž,45,muž,Brno,38000,vysokoškolské,4000,ODS
+Eva Horáková,33,žena,Pardubice,30000,vyšší odborné,3400,TOP 09
+Lucie Nováková,29,žena,Liberec,28000,středoškolské bez maturity,3300,ČSSD
+Tomáš Svoboda,51,muž,Ostrava,35000,středoškolské s maturitou,4200,ANO
+Jana Dvořáková,38,žena,Plzeň,32000,vysokoškolské,3650,Piráti
+Petr Novotný,45,muž,Brno,40000,vysokoškolské,4800,ODS
+Eva Hrušková,34,žena,Ústí nad Labem,30000,středoškolské s maturitou,3500,SPD
+Marie Kopecká,29,žena,Pardubice,28000,vyšší odborné,3300,ČSSD
+Tomáš Svoboda,52,muž,Ostrava,35000,vysokoškolské,4100,ANO
+Lucie Dvořáková,37,žena,Plzeň,32000,středoškolské bez maturity,3650,Piráti
+Jiří Novák,46,muž,Brno,38000,vysokoškolské,4000,ODS
+Eva Horáková,34,žena,Liberec,30000,středoškolské s maturitou,3500,SPD
+Marie Křížová,29,žena,Pardubice,28000,vyšší odborné,3300,ČSSD
+Petr Vlček,52,muž,Ostrava,36000,vysokoškolské,4200,ANO
+Lucie Dvořáková,37,žena,Plzeň,34000,vysokoškolské,3800,Piráti
+Jiří Novotný,45,muž,Brno,41000,vysokoškolské,4600,ODS
+Anna Svobodová,31,žena,Liberec,32000,středoškolské s maturitou,2900,SPD
+Martin Kopecký,28,muž,Pardubice,28000,vyšší odborné,3300,ČSSD
+Petra Horáková,52,žena,Ostrava,36000,vysokoškolské,4200,ANO
+Lukáš Vávra,34,muž,Plzeň,33000,středoškolské bez maturity,3500,Piráti
+Jana Novotná,45,žena,Brno,37000,vysokoškolské,4000,ODS
+Tomáš Dvořák,39,muž,Liberec,31000,středoškolské s maturitou,3650,SPD
+Eva Šimková,28,žena,Pardubice,29000,vyšší odborné,3200,ČSSD
+Petr Novák,52,muž,Ostrava,34000,středoškolské bez maturity,3800,ANO
+Martina Horáková,34,žena,Plzeň,32000,vysokoškolské,3000,Piráti
+Jana Kopecká,45,žena,Brno,36000,vysokoškolské,4100,ODS
+Lukáš Svoboda,38,muž,Liberec,33000,středoškolské s maturitou,3650,TOP 09
+Eva Dvořáková,29,žena,Pardubice,28000,vyšší odborné,3400,ČSSD
+Tomáš Novotný,52,muž,Ostrava,37000,středoškolské bez maturity,4800,ANO
+Martina Horáková,34,žena,Plzeň,31000,vysokoškolské,3500,Piráti
+Jiří Kříž,45,muž,Brno,42000,středoškolské s maturitou,4000,ODS
+Lucie Svobodová,27,žena,Liberec,29000,vysokoškolské,3200,TOP 09
+Eva Dvořáková,39,žena,Pardubice,33500,středoškolské s maturitou,3650,ČSSD
+Tomáš Novák,52,muž,Ostrava,38000,vysokoškolské,4500,ANO
+Martina Horáková,34,žena,Plzeň,31000,středoškolské bez maturity,3800,Piráti
+Jiří Kříž,46,muž,Brno,42000,vysokoškolské,4700,ODS
+Lucie Svobodová,28,žena,Liberec,29000,vyšší odborné,3200,STAN
+Eva Dvořáková,39,žena,Pardubice,34000,středoškolské s maturitou,3600,ČSSD
+Petr Novák,52,muž,Ostrava,38000,vysokoškolské,4500,ANO
+Martina Horáková,33,žena,Plzeň,31000,vysokoškolské,3800,Piráti
+Jan Kovařík,45,muž,Brno,42000,vysokoškolské,4000,ODS
+Lucie Svobodová,29,žena,Liberec,29000,vyšší odborné,3200,SPD
+Eva Dvořáková,37,žena,Pardubice,33000,středoškolské s maturitou,3600,ČSSD
+Petr Novák,52,muž,Ostrava,37000,středoškolské s maturitou,4100,ANO
+Michaela Horáková,34,žena,Plzeň,31000,vysokoškolské,3400,Piráti
+Jaroslav Kříž,45,muž,Brno,40000,vysokoškolské,4600,ODS
+Lucie Svobodová,29,žena,Liberec,28000,vyšší odborné,3200,TOP 09
+Eva Dvořáková,38,žena,Hradec Králové,33000,vysokoškolské,3700,SPD
+Tomáš Novotný,52,muž,Ostrava,37000,středoškolské s maturitou,4500,ANO
+Michaela Horáková,34,žena,Plzeň,31000,vysokoškolské,3600,Piráti
+Petr Jelínek,45,muž,Brno,40000,vysokoškolské,4300,ODS
+Lucie Krejčí,29,žena,Liberec,28000,středoškolské s maturitou,3200,ČSSD
+Eva Dvořáková,38,žena,Praha,45000,vysokoškolské,3900,TOP 09
+Alois Novák,52,muž,Ostrava,38000,vysokoškolské,4800,ANO
+Martin Svoboda,34,muž,Plzeň,32000,středoškolské s maturitou,3600,Piráti
+Tereza Horáková,27,žena,Brno,30000,vysokoškolské,2500,ODS
+Lucie Váňová,45,žena,Liberec,35000,vyšší odborné,4200,ČSSD
+Petr Dvořák,38,muž,Praha,45000,vysokoškolské,3900,TOP 09
+Jana Nováková,52,žena,Ostrava,28000,středoškolské s maturitou,3300,ANO
+Martin Svoboda,34,muž,Plzeň,32000,vysokoškolské,3600,Piráti
+Eva Horáková,29,žena,Brno,38000,vyšší odborné,3100,ODS
+Lucie Křížová,47,žena,Liberec,33000,středoškolské bez maturity,3500,ČSSD
+Petr Dvořák,65,muž,Hradec Králové,29000,základní,4000,SPD
+Jana Nováková,52,žena,Ostrava,28000,středoškolské s maturitou,3700,ANO
+Martin Šimek,34,muž,Plzeň,35000,vysokoškolské,3200,Piráti
+Eva Horáková,29,žena,Brno,31000,vysokoškolské,2500,TOP 09
+Lucie Novotná,45,žena,Liberec,33000,středoškolské s maturitou,3400,ODS
+Petr Dvořák,37,muž,Praha,42000,vysokoškolské,4000,ČSSD
+Jana Svobodová,52,žena,Ostrava,28000,středoškolské bez maturity,2900,ANO
+Martin Kříž,34,muž,Plzeň,35000,vysokoškolské,3200,Piráti
+Eva Horáková,28,žena,Brno,31000,vysokoškolské,2700,TOP 09
+Lucie Nováková,45,žena,Liberec,33000,středoškolské s maturitou,3500,SPD
+Petr Dvořák,37,muž,Praha,45000,vysokoškolské,4000,ODS
+Jana Svobodová,52,žena,Ostrava,38000,vysokoškolské,3600,ANO
+Martin Novotný,34,muž,Plzeň,29000,středoškolské s maturitou,3200,Piráti
+Eva Hrubá,28,žena,Brno,31000,vysokoškolské,2800,ČSSD
+Lucie Křížová,45,žena,Liberec,36000,vysokoškolské,3500,TOP 09
+Tomáš Dvořák,37,muž,Hradec Králové,33000,středoškolské s maturitou,3400,SPD
+Jana Svobodová,52,žena,Ostrava,28000,vyšší odborné,2900,ANO
+Petr Novák,34,muž,Plzeň,42000,vysokoškolské,3700,Piráti
+Eva Horáková,28,žena,Brno,31000,vysokoškolské,2600,ČSSD
+Milan Kříž,45,muž,Liberec,38000,středoškolské s maturitou,4000,ODS
+Lucie Dvořáková,33,žena,Hradec Králové,34000,vysokoškolské,3300,TOP 09
+Jana Svobodová,52,žena,Ostrava,28000,středoškolské bez maturity,4500,ANO
+Tomáš Novák,37,muž,Plzeň,36000,vysokoškolské,3900,Piráti
+Petr Válek,29,muž,Brno,32000,vysokoškolské,3100,ČSSD
+Eva Křížová,45,žena,Liberec,29000,středoškolské s maturitou,4200,ODS
+Lucie Dvořáková,33,žena,Pardubice,31000,vysokoškolské,3700,TOP 09
+Jiří Horák,52,muž,Ostrava,28000,středoškolské bez maturity,4500,ANO
+Martina Novotná,38,žena,Plzeň,34000,vysokoškolské,3900,Piráti
+Petr Svoboda,29,muž,Brno,37000,vysokoškolské,3200,SPD
+Eva Kopecká,47,žena,Liberec,29000,středoškolské s maturitou,4100,ODS
+Lucie Dvořáková,34,žena,Olomouc,32000,vysokoškolské,3600,ČSSD
+Jan Novák,52,muž,Ostrava,33000,středoškolské s maturitou,4700,ANO
+Martina Horáková,39,žena,Plzeň,28000,vyšší odborné,3500,Piráti
+Petr Svoboda,30,muž,Brno,35000,vysokoškolské,3800,TOP 09
+Eva Jelínková,47,žena,Praha,40000,vysokoškolské,4200,ODS
+Lucie Křížová,34,žena,Liberec,29000,středoškolské s maturitou,3600,ČSSD
+Tomáš Novotný,52,muž,Ostrava,33000,středoškolské bez maturity,4000,ANO
+Martina Dvořáková,28,žena,Plzeň,27000,vysokoškolské,3400,Piráti
+Jiří Horák,36,muž,Brno,32000,vysokoškolské,3800,SPD
+Eva Nováková,45,žena,Praha,41000,vysokoškolské,4600,ODS
+Lukáš Válek,31,muž,Liberec,29000,středoškolské s maturitou,3600,ČSSD
+Barbora Křížová,52,žena,Ostrava,38000,vysokoškolské,4200,ANO
+Petr Svoboda,28,muž,Plzeň,27000,vyšší odborné,3400,Piráti
+Martina Horáková,37,žena,Brno,33000,vysokoškolské,3900,TOP 09
+Jiří Novák,45,muž,Praha,45000,vysokoškolské,5000,ODS
+Eva Dvořáková,34,žena,Liberec,31000,středoškolské s maturitou,3600,ČSSD
+Lukáš Kříž,51,muž,Ostrava,37000,vysokoškolské,4300,ANO
+Petra Svobodová,29,žena,Plzeň,28000,vyšší odborné,3200,Piráti
+Martin Horák,38,muž,Brno,33000,vysokoškolské,4000,SPD
+Tereza Novotná,43,žena,Praha,45000,vysokoškolské,3700,ODS
+Jiří Dvořák,34,muž,Liberec,31000,středoškolské s maturitou,3600,ČSSD
+Eva Křížová,27,žena,Ostrava,27000,vysokoškolské,2900,ANO
+Petr Novák,51,muž,Plzeň,35000,vyšší odborné,4500,Piráti
+Martina Hrubá,29,žena,Brno,33000,vysokoškolské,3200,TOP 09
+Lucie Svobodová,43,žena,Praha,42000,vysokoškolské,4000,ODS
+Jakub Dvořák,34,muž,Liberec,31000,středoškolské s maturitou,3700,ČSSD
+Eva Horáková,27,žena,Ostrava,28000,vysokoškolské,2900,ANO
+Petr Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4500,SPD
+Martina Kopecká,36,žena,Brno,33000,vysokoškolské,3400,Piráti
+Michaela Jelínková,45,žena,Ústí nad Labem,29500,vyšší odborné,3900,ODS
+Josef Dvořák,34,muž,Hradec Králové,32000,středoškolské s maturitou,4100,ČSSD
+Tereza Svobodová,28,žena,Ostrava,28000,vysokoškolské,3600,ANO
+Petr Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4500,SPD
+Lucie Horáková,36,žena,Brno,34000,vysokoškolské,4200,Piráti
+Martin Vlček,45,muž,Liberec,40000,vyšší odborné,4800,ODS
+Eva Dvořáková,31,žena,Pardubice,32000,středoškolské s maturitou,4000,ČSSD
+Jana Procházková,27,žena,Ostrava,28000,vysokoškolské,3500,ANO
+Petr Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4600,SPD
+Lucie Křížová,34,žena,Brno,36000,vysokoškolské,4200,Piráti
+Marek Svoboda,45,muž,Liberec,33000,vyšší odborné,4800,ODS
+Veronika Dvořáková,31,žena,Hradec Králové,31000,středoškolské s maturitou,3000,ČSSD
+Jana Procházková,29,žena,Ostrava,28000,středoškolské bez maturity,3500,ANO
+Petr Novák,52,muž,Plzeň,38000,vysokoškolské,4500,SPD
+Lucie Křížová,34,žena,Brno,36000,vysokoškolské,4000,Piráti
+Petra Hrubá,45,žena,Pardubice,33000,vyšší odborné,3900,ODS
+Lucie Svobodová,29,žena,Liberec,28000,středoškolské s maturitou,3500,ČSSD
+Martin Vávra,37,muž,Ostrava,32000,vysokoškolské,4200,ANO
+Eva Dvořáková,52,žena,Plzeň,36000,vyšší odborné,4800,SPD
+Adam Novák,34,muž,Brno,29000,středoškolské bez maturity,3300,Piráti
+Klára Horáková,45,žena,Praha,42000,vysokoškolské,3900,ODS
+Petr Šimek,29,muž,Liberec,27000,středoškolské s maturitou,3000,ČSSD
+Martina Vlčková,38,žena,Ostrava,31000,vyšší odborné,3500,ANO
+Eva Dvořáková,52,žena,Plzeň,33000,středoškolské bez maturity,3700,SPD
+Tomáš Novotný,34,muž,Brno,36000,vysokoškolské,4100,Piráti
+Vlastaa Procházková,45,žena,Praha,42000,vysokoškolské,2800,ODS
+Lukáš Svoboda,29,muž,Liberec,28000,středoškolské s maturitou,3300,ČSSD
+Martina Horáková,38,žena,Ostrava,31000,vyšší odborné,2900,ANO
+Lukáš Kříž,52,muž,Plzeň,38000,vysokoškolské,4500,SPD
+Eva Dvořáková,31,žena,Pardubice,32000,středoškolské s maturitou,4000,ČSSD
+Vlastaa Procházková,27,žena,Ostrava,28000,vysokoškolské,3500,ANO
+Lukáš Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4600,SPD
+Lucie Křížová,34,žena,Brno,36000,vysokoškolské,4200,Piráti
+Marek Svoboda,45,muž,Liberec,33000,vyšší odborné,4800,ODS
+Veronika Dvořáková,31,žena,Hradec Králové,31000,středoškolské s maturitou,3000,ČSSD
+Jana Procházková,29,žena,Ostrava,28000,středoškolské bez maturity,3500,ANO
+Marek Novák,52,muž,Plzeň,38000,vysokoškolské,4500,SPD
+Lucie Křížová,34,žena,Brno,36000,vysokoškolské,4000,Piráti
+Martin Válek,45,muž,Ústí nad Labem,33000,středoškolské s maturitou,4200,ODS
+Eva Dvořáková,38,žena,Liberec,31000,vyšší odborné,3900,ČSSD
+Jana Horáková,29,žena,Ostrava,28000,středoškolské bez maturity,3600,ANO
+Marek Novák,52,muž,Plzeň,38000,vysokoškolské,4500,SPD
+Lucie Svobodová,34,žena,Brno,29500,vysokoškolské,3700,Piráti
+Martin Jelínek,45,muž,Praha,42000,vysokoškolské,4800,ODS
+Eva Dvořáková,37,žena,Liberec,31000,středoškolské s maturitou,3400,ČSSD
+Jiří Krejčí,29,muž,Ostrava,28000,vysokoškolské,3200,ANO
+Hana Nováková,52,žena,Plzeň,33000,středoškolské bez maturity,4000,SPD
+Lukáš Svoboda,34,muž,Brno,36000,vysokoškolské,3700,Piráti
+Martina Hrušková,45,žena,České Budějovice,29500,vyšší odborné,3800,TOP 09
+Petr Dvořák,38,muž,Liberec,31000,středoškolské s maturitou,3400,ODS
+Eva Křížová,29,žena,Ostrava,28000,vysokoškolské,3600,ANO
+Jan Novák,52,muž,Plzeň,33000,středoškolské bez maturity,4200,SPD
+Lucie Svobodová,34,žena,Brno,32000,vysokoškolské,3100,Piráti
+Michaela Horáková,45,žena,Praha,45000,vysokoškolské,3800,TOP 09
+Tomáš Dvořák,37,muž,Liberec,31000,středoškolské s maturitou,3300,ČSSD
+Eva Křížová,29,žena,Ostrava,28000,vyšší odborné,2500,ANO
+Jiří Novák,52,muž,Plzeň,38000,vysokoškolské,4200,ODS
+Lenka Svobodová,34,žena,Brno,33000,vysokoškolské,2900,Piráti
+Martina Horáková,45,žena,Pardubice,36000,středoškolské s maturitou,3600,SPD
+Tomáš Dvořák,37,muž,Liberec,40000,vysokoškolské,3300,ČSSD
+Eva Křivánková,29,žena,Ostrava,28000,vyšší odborné,2500,ANO
+Petr Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4100,ODS
+Jana Vávrová,34,žena,Brno,32000,vysokoškolské,2800,Piráti
+Martin Svoboda,45,muž,Praha,45000,vysokoškolské,3600,TOP 09
+Lucie Horáková,27,žena,Liberec,29000,vyšší odborné,2600,ČSSD
+Eva Dvořáková,39,žena,Ostrava,34000,středoškolské s maturitou,3300,ANO
+Petr Novák,52,muž,Plzeň,38000,vysokoškolské,4000,ODS
+Jana Křížová,34,žena,Brno,37000,vysokoškolské,2800,Piráti
+Martin Svoboda,45,muž,Praha,45000,vysokoškolské,3500,TOP 09
+Lucie Horáková,28,žena,Liberec,32000,středoškolské s maturitou,2500,ČSSD
+Eva Dvořáková,37,žena,Ostrava,34000,vysokoškolské,3000,ANO
+Tomáš Novák,52,muž,Plzeň,39000,vyšší odborné,4000,ODS
+Jana Křížová,34,žena,Brno,36000,vysokoškolské,2800,Piráti
+Petr Svoboda,45,muž,Praha,45000,vysokoškolské,3500,TOP 09
+Lucie Novotná,29,žena,Liberec,32000,středoškolské s maturitou,2500,ČSSD
+Eva Dvořáková,38,žena,Ostrava,33000,středoškolské bez maturity,2900,ANO
+Tomáš Vlček,52,muž,Plzeň,38000,vysokoškolské,4000,ODS
+Jana Horáková,34,žena,Brno,37000,vysokoškolské,3100,Piráti
+Martin Svoboda,45,muž,Praha,45000,vysokoškolské,4200,TOP 09
+Lucie Nováková,29,žena,Liberec,28000,středoškolské s maturitou,2600,ČSSD
+Petr Kříž,38,muž,Ostrava,32000,vyšší odborné,3400,ANO
+Veronika Dvořáková,52,žena,Plzeň,34000,vysokoškolské,3800,ODS
+Jana Horáková,33,žena,Brno,38000,vysokoškolské,3000,Piráti
+Martin Svoboda,45,muž,Praha,45000,vysokoškolské,4500,TOP 09
+Lucie Nováková,29,žena,Liberec,28000,středoškolské s maturitou,2500,ČSSD
+Petr Kříž,37,muž,Ostrava,32000,vysokoškolské,3400,ANO
+Eva Dvořáková,52,žena,Plzeň,36000,vysokoškolské,4200,ODS
+Jana Horáková,34,žena,Brno,33000,vysokoškolské,3600,Piráti
+Martin Svoboda,46,muž,Pardubice,38000,vyšší odborné,3900,SPD
+Lucie Novotná,29,žena,Liberec,28000,středoškolské s maturitou,3200,ČSSD
+Petr Kříž,37,muž,Ostrava,31000,vysokoškolské,4500,ANO
+Eva Dvořáková,52,žena,Plzeň,29000,středoškolské bez maturity,3750,ODS
+Jana Horáková,34,žena,Brno,33000,vysokoškolské,4200,Piráti
+Marek Svoboda,45,muž,Praha,45000,vysokoškolské,4800,TOP 09
+Lucie Nováková,29,žena,Liberec,28000,vyšší odborné,3200,ČSSD
+Tomáš Kříž,38,muž,Ostrava,37000,středoškolské s maturitou,4100,ANO
+Eva Dvořáková,52,žena,Plzeň,31000,středoškolské bez maturity,3650,SPD
+Jiří Novotný,34,muž,Brno,39000,vysokoškolské,4300,Piráti
+Lucie Svobodová,43,žena,Praha,42000,vysokoškolské,4000,ODS
+Jakub Dvořák,34,muž,Liberec,31000,středoškolské s maturitou,3700,ČSSD
+Eva Horáková,27,žena,Ostrava,28000,vysokoškolské,2900,ANO
+Petr Novák,52,muž,Plzeň,38000,středoškolské bez maturity,4500,SPD
+Martina Kopecká,36,žena,Brno,33000,vysokoškolské,3400,Piráti
+Michaela Jelínková,45,žena,Ústí nad Labem,29500,vyšší odborné,3900,ODS
+Josef Dvořák,34,muž,Hradec Králové,32000,středoškolské s maturitou,4100,ČSSD
+Tereza Svobodová,28,žena,Ostrava,28000,vysokoškolské,3600,ANO
+Martina Hrubá,29,žena,Brno,33000,vysokoškolské,3200,TOP 09
