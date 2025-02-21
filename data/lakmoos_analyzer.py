@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 # df = pd.read_csv("clones_24.csv")
-df = pd.read_csv("clones_full.csv")
+df = pd.read_csv("Lakmoos_clones.csv")
 
 # load column favourite_brands and load it into json
 
