@@ -1,0 +1,500 @@
+age,income,gender,education,political_preferences,energy_consumption_kWh
+59,37774,male,university education, Pirati,3748.19
+26,31381,male,university education, STAN,4296.52
+58,47562,male,secondary education with maturity diploma, TOP09,4061.4
+56,41105,female,no education,,3021.09
+76,67165,female,secondary education without maturity diploma,Hnuti Ano,4015
+49,30797,female,university education,Hnuti Ano,752.57
+38,32139,male,secondary education without maturity diploma,,4296.52
+83,69872,female,secondary education with maturity diploma,Hnuti Ano,2957.18
+19,40814,female,elementary education, ��,2953.95
+16,4339,female,elementary education,,
+1,,female,,,
+33,26408,male,secondary education without maturity diploma,,611.48
+70,27135,female,secondary education with maturity diploma,Hnuti Ano,1589.13
+64,36161,female,secondary education with maturity diploma, Pirati,1486.15
+67,52154,male,secondary education without maturity diploma, ODS,4314.84
+47,32139,female,secondary education without maturity diploma,,3765.2
+46,29394,female,elementary education,,2176.31
+62,37142,male,university education, Pirati,2750.7
+61,49542,male,secondary education with maturity diploma, SPD,2712.67
+55,77172,female,university education,,4867.88
+31,60993,female,university education, STAN,2870.86
+33,59591,female,university education,,2564.33
+9,,male,,,
+29,56828,female,secondary education with maturity diploma, ODS,4544.56
+69,42045,female,secondary education without maturity diploma, SPD,602.76
+5,,male,,,
+39,55789,male,university education, SPD,6698.46
+55,67165,female,secondary education without maturity diploma, KSCM,4015
+80,47150,female,elementary education,,2586.17
+0,,male,,,
+52,36109,male,secondary education without maturity diploma, STAN,2750.7
+69,32139,female,elementary education, P���,7434.32
+45,57109,male,university education, ODS,6443.93
+42,22133,male,secondary education without maturity diploma, TOP09,604.78
+5,,female,,,
+8,,male,,,
+4,,female,,,
+17,8330,male,elementary education,,
+87,67165,female,secondary education without maturity diploma, SPD,5269.22
+25,51520,female,secondary education with maturity diploma,,5841.73
+57,34768,male,university education,Hnuti Ano,5794.27
+18,,male,elementary education,,
+75,37142,male,secondary education with maturity diploma, KSCM,4296.52
+50,40383,female,secondary education without maturity diploma, Pirati,1684.78
+57,59077,male,secondary education without maturity diploma,,5183.31
+28,62290,female,university education,,2050.96
+71,32139,female,secondary education with maturity diploma,,1810.43
+64,46288,male,university education, SPD,4061.4
+43,41474,male,secondary education without maturity diploma,,4061.4
+47,41600,male,secondary education with maturity diploma,,5723.02
+48,52534,male,secondary education without maturity diploma, Pirati,2850.8
+34,58112,male,university education,,6698.46
+27,33957,female,secondary education without maturity diploma,,1557.85
+4,,male,,,
+17,,female,elementary education,,
+33,36768,female,secondary education without maturity diploma,,7434.32
+5,,female,,,
+94,47150,female,secondary education without maturity diploma, STAN,3147.39
+47,34450,female,secondary education with maturity diploma,,1486.15
+68,32139,female,secondary education without maturity diploma,,1810.43
+39,29012,female,university education,Hnuti Ano,2687.32
+75,42146,male,secondary education without maturity diploma,Hnuti Ano,4656.32
+80,27135,female,no education,,3451.84
+23,51033,female,university education, KDU-CSL,2973.95
+69,108685,female,secondary education without maturity diploma,Hnuti Ano,2758.3
+69,52154,male,university education,Hnuti Ano,2850.8
+5,,male,,,
+68,27135,female,secondary education without maturity diploma,,363.23
+36,44406,male,university education, TOP09,6989.73
+3,,male,,,
+43,41642,male,university education,,3840.78
+69,27135,female,elementary education, KSCM,363.23
+34,27135,male,elementary education,,381.97
+70,42146,male,secondary education without maturity diploma, SPD,4061.4
+21,51920,male,secondary education without maturity diploma,,2396.27
+10,,male,,,
+37,41163,male,secondary education with maturity diploma,Hnuti Ano,5472.48
+25,53409,male,secondary education with maturity diploma,,2850.8
+26,32524,female,secondary education with maturity diploma, TOP09,2016.92
+40,32139,female,secondary education with maturity diploma,Hnuti Ano,752.57
+38,35526,female,university education,,1486.15
+47,43048,female,secondary education without maturity diploma,,8051.19
+14,,female,,,
+70,32139,male,secondary education without maturity diploma,Hnuti Ano,4296.52
+8,,male,,,
+9,,female,,,
+7,,male,,,
+45,52038,male,secondary education without maturity diploma, ODS,5284.59
+12,,female,,,
+65,27135,female,secondary education without maturity diploma, STAN,474.06
+49,47150,female,secondary education with maturity diploma,,6612.4
+15,8076,female,elementary education,,
+80,52154,male,university education,Hnuti Ano,4544.56
+60,33882,female,university education, ODS,7434.32
+10,,male,,,
+56,41065,female,secondary education with maturity diploma, ODS,602.76
+12,,male,,,
+7,,female,,,
+28,41514,female,university education,,7397.44
+46,34595,male,secondary education without maturity diploma, SPD,4190.51
+14,,male,,,
+0,,male,,,
+9,,male,,,
+11,,female,,,
+35,53876,male,secondary education with maturity diploma,,4314.84
+37,38179,male,secondary education without maturity diploma,Hnuti Ano,2999.7
+51,42713,male,secondary education without maturity diploma, Pirati,3488.71
+37,55419,male,elementary education, TOP09,2661.48
+36,36428,female,secondary education with maturity diploma, Pirati,2016.92
+50,30003,female,secondary education without maturity diploma,,3765.2
+72,40027,female,secondary education with maturity diploma,Hnuti Ano,6612.4
+50,,female,secondary education without maturity diploma,,
+75,52154,female,secondary education without maturity diploma,Hnuti Ano,5841.73
+47,38072,male,secondary education with maturity diploma,Hnuti Ano,1291.23
+44,60404,female,secondary education with maturity diploma, ODS,7926.96
+57,47378,male,secondary education without maturity diploma,,5723.02
+6,,female,,,
+35,49903,male,secondary education with maturity diploma, P���,7144.08
+55,35410,male,secondary education without maturity diploma,Hnuti Ano,4296.52
+6,,female,,,
+39,37677,male,secondary education with maturity diploma, STAN,5794.27
+4,,female,,,
+74,32139,female,secondary education with maturity diploma,Hnuti Ano,2016.92
+72,42146,male,secondary education with maturity diploma, KSCM,4656.32
+2,,male,,,
+70,71874,female,secondary education with maturity diploma,Hnuti Ano,4666.41
+16,5141,male,elementary education,,
+11,,male,,,
+20,42146,male,elementary education, KDU-CSL,6989.73
+50,29722,female,secondary education with maturity diploma,,2176.31
+48,,female,university education, ODS,
+64,27135,female,university education, Pirati,363.23
+71,94945,male,secondary education without maturity diploma,,4306.14
+75,27135,male,secondary education without maturity diploma,Hnuti Ano,1778.94
+35,29401,male,secondary education with maturity diploma, KSCM,6429
+28,32508,female,secondary education with maturity diploma,,752.57
+40,,male,secondary education without maturity diploma,,
+84,67165,female,secondary education with maturity diploma, TOP09,4015
+7,,female,,,
+49,43431,male,secondary education without maturity diploma, ODS,1868.73
+20,3815,male,secondary education without maturity diploma,,2323.26
+40,59781,female,secondary education without maturity diploma, KDU-CSL,2564.33
+19,30658,female,elementary education, TOP09,2016.92
+31,22131,female,elementary education, Pirati,1589.13
+73,42146,female,secondary education with maturity diploma, Pirati,5968.06
+64,67165,male,secondary education without maturity diploma,,2957.18
+47,32634,female,secondary education with maturity diploma,,1486.15
+77,67165,male,secondary education with maturity diploma,Hnuti Ano,7795.21
+85,57157,female,secondary education without maturity diploma,,4242.52
+70,41287,male,secondary education with maturity diploma, ODS,2712.67
+65,32139,female,secondary education with maturity diploma, ODS,1988.27
+49,43179,male,secondary education with maturity diploma, ODS,3840.78
+63,49671,male,secondary education with maturity diploma,,6989.73
+0,,male,,,
+27,39198,male,secondary education with maturity diploma, ��,4296.52
+22,34358,male,secondary education with maturity diploma,,1091.23
+71,32139,male,secondary education without maturity diploma,Hnuti Ano,5794.27
+57,36845,female,university education, TOP09,5624.02
+19,7785,male,elementary education,Hnuti Ano,2575.57
+53,53577,female,secondary education without maturity diploma,,2845.34
+71,42146,male,secondary education without maturity diploma, SPD,6989.73
+0,,male,,,
+55,37289,female,university education, Pirati,752.57
+46,39603,female,secondary education with maturity diploma,,1557.85
+10,,female,,,
+62,67165,male,secondary education without maturity diploma, ��,2379.18
+42,57944,male,secondary education without maturity diploma,,2396.27
+9,,female,,,
+79,37142,female,secondary education without maturity diploma, SPD,1988.27
+46,52154,female,secondary education without maturity diploma,Hnuti Ano,8931.79
+74,72168,male,elementary education,Hnuti Ano,9847.64
+74,34742,male,university education,,2750.7
+67,63818,male,secondary education without maturity diploma, TOP09,2379.18
+49,32186,male,secondary education without maturity diploma,,4296.52
+5,,male,,,
+4,,male,,,
+77,37142,female,secondary education with maturity diploma,,1486.15
+52,35025,female,secondary education without maturity diploma,Hnuti Ano,1557.85
+50,28425,female,secondary education without maturity diploma, TOP09,2740.38
+42,64069,male,secondary education with maturity diploma, ODS,6476.48
+34,40516,female,secondary education with maturity diploma, ODS,2953.95
+52,46972,female,university education, TOP09,602.76
+38,60805,male,secondary education with maturity diploma,Hnuti Ano,7795.21
+50,30528,male,elementary education,,2750.7
+17,7997,male,secondary education without maturity diploma,,
+39,45158,male,university education, ODS,4656.32
+5,,female,,,
+53,64775,male,secondary education without maturity diploma, KDU-CSL,7389.96
+45,26198,female,secondary education without maturity diploma,,2521.18
+62,37142,female,university education,,1486.15
+20,26127,female,secondary education with maturity diploma,,3064.3
+55,42316,female,university education,,3021.09
+65,72168,female,secondary education with maturity diploma,,4807.67
+48,58747,male,secondary education with maturity diploma, ODS,2396.27
+71,57157,female,elementary education,Hnuti Ano,5841.73
+29,35781,female,secondary education with maturity diploma, Pirati,1486.15
+7,,male,,,
+9,,male,,,
+93,32139,female,no education,,1486.15
+6,,female,,,
+61,23700,female,university education,Hnuti Ano,363.23
+24,27135,female,university education,,2176.31
+60,36396,female,secondary education without maturity diploma,,1486.15
+50,57611,male,secondary education without maturity diploma,,6698.46
+1,,male,,,
+68,47150,female,university education,Hnuti Ano,1684.78
+6,,male,,,
+87,67165,male,secondary education without maturity diploma,Hnuti Ano,3148.91
+43,39586,female,university education,,3454.12
+37,51135,male,university education, ODS,2661.48
+36,36787,male,university education, ODS,2656.65
+19,7557,male,secondary education without maturity diploma,,1666.65
+55,53762,female,secondary education with maturity diploma, SPD,2622.27
+38,34734,female,university education, Pirati,3765.2
+9,,male,,,
+13,,female,,,
+51,30130,male,secondary education without maturity diploma,,4296.52
+39,62336,female,secondary education with maturity diploma,,4015
+81,32139,female,secondary education with maturity diploma, KDU-CSL,1486.15
+60,37296,male,secondary education without maturity diploma,,5794.27
+61,49761,female,elementary education,Hnuti Ano,7397.44
+64,71558,male,secondary education without maturity diploma,,8105.18
+37,50601,male,university education, Pirati,1709.13
+29,37142,female,university education,,752.57
+6,,female,,,
+8,,female,,,
+59,33060,male,secondary education with maturity diploma,,2750.7
+71,32139,female,secondary education without maturity diploma, KSCM,1486.15
+60,32139,male,university education, Pirati,2750.7
+14,,male,,,
+31,34458,female,university education,,7434.32
+54,39942,male,university education,,4296.52
+31,54800,female,elementary education,,8931.79
+44,100285,male,secondary education without maturity diploma,,6304.57
+57,52185,female,secondary education with maturity diploma, Pirati,2973.95
+66,42146,male,secondary education without maturity diploma, TOP09,6989.73
+68,47150,female,secondary education without maturity diploma,Hnuti Ano,3147.39
+53,45744,female,secondary education with maturity diploma, SPD,5968.06
+23,31751,female,secondary education with maturity diploma,,3765.2
+34,37878,male,university education,,4296.52
+13,,female,,,
+39,23086,female,secondary education with maturity diploma,,3451.84
+32,60138,male,university education, TOP09,7389.96
+71,32139,male,university education, Pirati,4296.52
+31,49288,male,secondary education without maturity diploma,,5723.02
+72,48166,male,secondary education with maturity diploma, STAN,3488.71
+64,22131,male,secondary education with maturity diploma, KSCM,1653.96
+56,57157,female,secondary education without maturity diploma,,8931.79
+25,41817,female,university education,Hnuti Ano,3147.39
+56,46405,female,secondary education without maturity diploma,,3021.09
+52,37532,female,secondary education with maturity diploma, Pirati,3454.12
+32,36869,female,university education, KDU-CSL,5624.02
+10,,female,,,
+73,77172,male,university education, ODS,3619.21
+65,47150,female,secondary education without maturity diploma, Pirati,3021.09
+21,24359,female,secondary education with maturity diploma, Pirati,363.23
+25,62922,female,secondary education with maturity diploma, TOP09,9167.07
+41,29554,female,secondary education without maturity diploma,,4400.84
+32,51884,male,secondary education with maturity diploma,Hnuti Ano,5284.59
+43,40399,female,secondary education without maturity diploma,,3193.62
+3,,female,,,
+54,65534,male,secondary education with maturity diploma, SPD,6476.48
+48,46081,female,secondary education with maturity diploma,,3147.39
+0,,female,,,
+51,33333,female,university education, SPD,1557.85
+44,40861,female,secondary education with maturity diploma,Hnuti Ano,6612.4
+25,32139,male,university education, Pirati,4296.52
+56,22131,female,university education, SPD,4400.84
+53,57700,female,secondary education without maturity diploma,,2622.27
+34,43019,male,university education, SPD,4656.32
+57,37702,female,secondary education with maturity diploma, Pirati,2654
+48,47760,male,university education,,2712.67
+31,60283,male,elementary education,,7389.96
+57,47827,male,secondary education without maturity diploma, ODS,3840.78
+14,,male,,,
+83,32139,female,secondary education without maturity diploma,Hnuti Ano,3765.2
+14,,female,,,
+6,,male,,,
+10,,male,,,
+23,46393,male,elementary education, KSCM,3840.78
+9,,female,,,
+48,28650,female,university education,,1589.13
+81,77172,male,secondary education without maturity diploma,,3634.18
+4,,female,,,
+43,58427,male,secondary education with maturity diploma, TOP09,2396.27
+34,23764,female,secondary education without maturity diploma, TOP09,1589.13
+67,44395,male,university education, Pirati,3840.78
+57,39554,male,no education, ODS,1091.23
+66,37142,female,university education,Hnuti Ano,7434.32
+28,62161,male,secondary education without maturity diploma,Hnuti Ano,3408.53
+19,,male,elementary education, TRIKOLORA,
+6,,male,,,
+15,,male,no education,,
+55,32330,female,secondary education with maturity diploma,,2654
+7,,female,,,
+82,72168,female,elementary education,,4086.35
+10,,male,,,
+43,52722,male,secondary education without maturity diploma,,6698.46
+33,44642,male,university education, PRO (Pr��vo Respekt Odborn,2227.62
+3,,female,,,
+23,46399,male,university education, ��,4656.32
+38,39491,male,secondary education with maturity diploma,,2656.65
+60,42988,male,secondary education without maturity diploma,,6989.73
+71,23366,male,secondary education without maturity diploma, P���,6429
+82,22131,female,secondary education without maturity diploma,Hnuti Ano,3451.84
+2,,female,,,
+29,33848,male,secondary education with maturity diploma,,2750.7
+7,,male,,,
+9,,male,,,
+41,25091,female,university education,,363.23
+66,,female,university education,,
+80,42146,male,secondary education without maturity diploma, TOP09,5472.48
+29,42146,female,university education, Pirati,3147.39
+66,32139,female,secondary education without maturity diploma,,5624.02
+27,61755,female,university education, STAN,7926.96
+11,,female,,,
+70,22131,male,secondary education with maturity diploma,Hnuti Ano,1610.1
+74,32139,male,secondary education with maturity diploma,Hnuti Ano,6976.37
+51,47150,male,secondary education with maturity diploma, ODS,5723.02
+46,54297,female,university education,,5841.73
+53,50857,female,secondary education without maturity diploma,,3298.87
+29,42146,male,university education, PRO (Pr��vo Respekt Odborn,5472.48
+8,,female,,,
+30,73037,male,secondary education with maturity diploma, ODS,5004.55
+57,23946,female,elementary education, ODS,1589.13
+72,27135,male,secondary education with maturity diploma, P���,2974.85
+38,35426,male,university education, ODS,4296.52
+40,28497,male,secondary education without maturity diploma,,3019.57
+49,22131,female,university education,,3064.3
+43,55491,male,secondary education with maturity diploma, ODS,4314.84
+18,4402,male,elementary education, Pirati,1767.82
+6,,female,,,
+50,57795,female,secondary education without maturity diploma, SPD,2845.34
+3,,female,,,
+28,28710,male,secondary education with maturity diploma, SPD,604.78
+90,22131,female,no education, KSCM,363.23
+36,23693,female,secondary education without maturity diploma, Pirati,2521.18
+21,23618,male,secondary education without maturity diploma,Hnuti Ano,381.97
+53,27135,male,university education, STAN,1742.91
+39,49020,female,secondary education without maturity diploma,Hnuti Ano,2953.95
+49,47537,male,no education, Jin�� st,3134.9
+50,48199,female,secondary education with maturity diploma, ODS,602.76
+71,47150,male,secondary education with maturity diploma, Zeleni,4061.4
+25,57631,male,secondary education with maturity diploma, ODS,2850.8
+46,45536,male,elementary education, STAN,5723.02
+54,31107,female,secondary education without maturity diploma, TOP09,1988.27
+70,42146,male,secondary education with maturity diploma, ��,6989.73
+9,,female,,,
+47,46457,male,secondary education with maturity diploma,Hnuti Ano,2227.62
+40,32111,male,secondary education with maturity diploma, ��,5794.27
+55,27682,male,university education,,1778.94
+73,47150,male,university education, KSCM,1868.73
+38,29880,male,secondary education with maturity diploma, Pirati,1653.96
+77,37142,female,elementary education, ��,1988.27
+88,22131,female,secondary education without maturity diploma,Hnuti Ano,1589.13
+56,46579,male,university education,,3840.78
+46,37627,female,secondary education without maturity diploma,,752.57
+23,50339,female,secondary education with maturity diploma, Pirati,2432.34
+14,,female,,,
+3,,female,,,
+29,22131,male,secondary education with maturity diploma,,6429
+23,,female,elementary education, KSCM,
+53,41125,female,secondary education without maturity diploma, ��,3193.62
+65,52154,male,secondary education without maturity diploma,Hnuti Ano,2396.27
+30,37142,male,secondary education with maturity diploma, Zeleni,2680.07
+7,,male,,,
+54,55967,male,university education, ODS,8110.95
+66,42146,female,secondary education with maturity diploma, Jin�� st,5056.86
+66,32139,female,secondary education without maturity diploma,Hnuti Ano,5624.02
+47,42327,female,secondary education without maturity diploma,,1684.78
+72,38503,male,university education, STAN,2656.65
+36,54851,male,secondary education without maturity diploma,Hnuti Ano,4314.84
+83,62161,male,secondary education with maturity diploma, STAN,7389.96
+73,32139,female,no education,,3305.55
+40,37142,male,university education, Pirati,4296.52
+40,34537,female,elementary education, Pirati,752.57
+89,27135,female,secondary education without maturity diploma, ��,2258.78
+7,,male,,,
+17,,female,secondary education without maturity diploma,,
+67,32139,male,secondary education without maturity diploma,Hnuti Ano,2999.7
+62,36106,female,elementary education,,4361.79
+43,52200,male,university education,Hnuti Ano,6443.93
+71,57157,female,secondary education with maturity diploma, P���,857.14
+59,35990,male,university education,,5794.27
+48,43694,male,university education, TOP09,2712.67
+30,44007,male,university education,,5472.48
+4,,male,,,
+78,22131,female,elementary education, Zeleni,2176.31
+86,22131,female,university education, Zeleni,2258.78
+52,29910,female,secondary education with maturity diploma,,4400.84
+44,34686,female,secondary education without maturity diploma, SPD,5624.02
+64,22131,female,elementary education,Hnuti Ano,363.23
+50,68530,male,secondary education without maturity diploma, TOP09,9344.65
+75,67165,female,secondary education with maturity diploma,Hnuti Ano,9167.07
+20,8269,male,secondary education without maturity diploma, STAN,2634.83
+35,42917,male,secondary education with maturity diploma,,6447.6
+2,,female,,,
+49,51017,male,university education, SPD,2396.27
+86,57157,male,secondary education without maturity diploma,Hnuti Ano,2730.67
+4,,female,,,
+8,,male,,,
+61,68004,female,secondary education without maturity diploma,,3818.31
+45,27135,male,university education,Hnuti Ano,381.97
+11,,male,,,
+54,35057,male,secondary education without maturity diploma,,2999.7
+20,8030,female,secondary education with maturity diploma,Hnuti Ano,5636.33
+57,45615,male,secondary education without maturity diploma, STAN,4061.4
+76,47150,male,secondary education with maturity diploma,Hnuti Ano,5723.02
+23,4594,male,secondary education without maturity diploma, SPD,1767.82
+38,42146,male,secondary education with maturity diploma, ODS,4656.32
+21,67165,female,secondary education without maturity diploma,Hnuti Ano,1283.68
+22,8366,male,secondary education without maturity diploma,Hnuti Ano,2575.57
+73,22131,female,secondary education without maturity diploma,,4400.84
+65,36217,female,secondary education with maturity diploma,,1988.27
+1,,male,,,
+20,31575,male,secondary education without maturity diploma, KSCM,1974.54
+29,42986,female,secondary education with maturity diploma, ODS,2953.95
+59,63943,male,secondary education with maturity diploma,,6476.48
+37,31290,female,secondary education without maturity diploma,,1557.85
+72,22131,female,secondary education without maturity diploma,Hnuti Ano,363.23
+38,30521,female,university education, TOP09,428.7
+59,51161,female,university education, Pirati,2622.27
+47,62246,female,secondary education without maturity diploma,,7926.96
+13,,male,,,
+12,,female,,,
+7,,male,,,
+55,33230,female,secondary education with maturity diploma, ��,4361.79
+65,41403,female,elementary education, ODS,602.76
+6,,female,,,
+40,33330,male,no education,,2999.7
+42,35533,female,secondary education with maturity diploma,,428.7
+62,52154,female,secondary education with maturity diploma,Hnuti Ano,2622.27
+43,51609,female,secondary education with maturity diploma, STAN,2973.95
+4,,male,,,
+48,45617,male,secondary education without maturity diploma,,5472.48
+61,22131,female,secondary education without maturity diploma,,2521.18
+37,52309,male,secondary education with maturity diploma, TOP09,2396.27
+8,,male,,,
+29,,male,secondary education with maturity diploma, Pirati,
+22,27304,female,secondary education with maturity diploma, Pirati,2176.31
+54,56610,female,secondary education with maturity diploma,,2432.34
+36,47798,male,secondary education with maturity diploma,,5472.48
+61,30298,male,secondary education with maturity diploma, Pirati,2750.7
+34,28648,female,secondary education with maturity diploma,,2176.31
+36,47150,male,secondary education without maturity diploma,,4656.32
+5,,male,,,
+80,42146,male,secondary education without maturity diploma,Hnuti Ano,5723.02
+59,29119,female,secondary education with maturity diploma,,2521.18
+2,,female,,,
+44,32156,male,university education,,4296.52
+81,47150,male,secondary education with maturity diploma, SPD,4656.32
+62,28714,female,secondary education with maturity diploma,,2258.78
+42,22131,female,secondary education without maturity diploma,,363.23
+10,,female,,,
+69,27135,female,elementary education,Hnuti Ano,2258.78
+22,47150,female,university education,,3147.39
+74,27135,female,secondary education with maturity diploma, Pirati,4400.84
+55,42730,female,secondary education without maturity diploma, ODS,2586.17
+63,46797,male,secondary education with maturity diploma,,6989.73
+18,5106,female,elementary education, SPD,3466.87
+1,,female,,,
+24,36236,female,secondary education with maturity diploma,,752.57
+51,43088,female,secondary education without maturity diploma,,6247.27
+3,,male,,,
+34,60168,female,secondary education without maturity diploma,,3818.31
+48,32389,male,secondary education with maturity diploma,,2999.7
+49,45775,male,university education, Pirati,3840.78
+6,,male,,,
+89,32139,female,secondary education without maturity diploma, ODS,4361.79
+83,52154,female,elementary education,,4242.52
+78,22131,female,elementary education,,363.23
+36,36287,female,secondary education with maturity diploma,,5624.02
+61,59112,male,secondary education without maturity diploma, SPD,5183.31
+77,67165,female,secondary education without maturity diploma,,7926.96
+39,33067,female,secondary education with maturity diploma,,428.7
+5,,female,,,
+87,52154,male,elementary education, TOP09,4735.25
+15,6528,male,no education,,
+80,37142,male,secondary education without maturity diploma,Hnuti Ano,3548.19
+83,22131,female,elementary education,Hnuti Ano,4400.84
+36,43892,male,university education,Hnuti Ano,4061.4
+21,51235,male,secondary education with maturity diploma, ODS,5284.59
+77,52154,male,secondary education without maturity diploma,Hnuti Ano,2396.27
+41,43971,male,university education,,3488.71
+18,7908,female,elementary education, Jin�� st,2587.63
+40,40126,male,university education,,4061.4
+47,43249,male,secondary education without maturity diploma, SPD,4656.32
+69,62161,female,secondary education without maturity diploma,Hnuti Ano,3818.31
+86,57157,female,secondary education with maturity diploma, ODS,2973.95
+59,55942,male,secondary education without maturity diploma, P���,4314.84
+57,42146,female,secondary education with maturity diploma,,3021.09
+13,,male,,,
+50,47743,female,secondary education with maturity diploma,,602.76
+37,53315,female,university education,,2973.95
+73,42146,male,secondary education without maturity diploma,Hnuti Ano,5723.02
+21,48097,male,secondary education without maturity diploma, TOP09,2227.62
+2,,male,,,
+74,47150,male,secondary education without maturity diploma,Hnuti Ano,4842.32
+48,,female,secondary education without maturity diploma,,
